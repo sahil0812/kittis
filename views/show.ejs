@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/show.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <title>Cat</title>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+          <h1>
+            <%= kitti.title %>
+          </h1>
+        </div>
+        <div class="content">
+          <h2><%= kitti.name %></h2>
+          <p><%= kitti.breedInfo %></p>
+          <img src="<%= kitti.img %>" alt="">
+          <p><%= kitti.description %></p>
+          <h6>bestFriends</h6>
+          <div class="friend">
+            <% for(let friend of kitti.bestFriend) { %>
+                <div class="single">
+                    <h5><%= friend.name %></h5>
+                    <img src="<%= friend.img %>" alt="">
+                </div>
+            <% } %> 
+          </div>
+          <div class="author">
+            <small><%= kitti.author %></small>
+          </div>
+        </div>
+    </div>
+    <div class="flexi">
+      <div>
+        <a href="/cats">Home</a>
+      </div>
+      <form action="/cats/<%= kitti.name.toLowerCase() %>?_method=DELETE" method="post">
+        <div class="align">
+          <button class="btn">Delete</button>
+        </div>
+    </form>  
+    <div>
+      <a href="/cats/<%= kitti.name.toLowerCase()%>/edit">Edit</a>
+    </div>
+    </div>
+    
+  
+      
+</body>
+</html>

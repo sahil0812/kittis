@@ -1,0 +1,71 @@
+/* CSS code for container */
+body{
+    background-color: #FFF4D2;
+}
+
+.containerForm {
+    background-color: #f8f8f8;
+    color: #d15656;
+    width: 70vw;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #d15656;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 2px 0px white;
+    background-color: #e39e9e;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+  
+  /* CSS code for headings */
+  h6 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #d15656;
+    text-align: center;
+
+  }
+  
+  /* CSS code for form elements */
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .btn {
+    background-color: #d15656;
+    color: #f8f8f8;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #333;
+    color: white;
+  }
+  .adjust{
+    text-align: center;
+  }

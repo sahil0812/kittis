@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/form.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <title>New Cat</title>
+</head>
+<body>
+    <div class="containerForm">
+        <h1>Add New Cat</h1>
+    <form action="/cats" method="post">
+        <section>
+            <label for="catname">Enter Cat Name:</label>
+            <input type="text" id="catname" placeholder="catname" name="catname"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="title">Enter Title:</label>
+            <input type="text" id="title" placeholder="title" name="title"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="author">Enter Author:</label>
+            <input type="text" id="author" placeholder="author" name="author"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="breedInfo">Enter Breed Info:</label>
+            <input type="text" id="breedInfo" placeholder="breedInfo" name="breedInfo"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="imgmain">Enter Image Link:</label>
+            <input type="text" id="imgmain" placeholder="Enter correct link of image" name="imgmain"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="description">Enter Description:</label>
+            <input type="text" id="description" placeholder="description" name="description"><!--name is going to be key-->
+        </section>
+        <section>
+            <h6>Enter The Details Of Friends</h6>
+            <section>
+                <label for="bestFriend1">bestFriend Name</label>
+                <input type="text" id="bestFriend1" placeholder="bestFriend" name="best1name"><!--name is going to be key-->
+                <label for="img1">Enter Image Link:</label>
+                <input type="text" id="img1" placeholder="Enter correct link of image" name="best1img"><!--name is going to be key-->
+            </section>
+            <section>
+                <label for="bestFriend2">bestFriend Name</label>
+                <input type="text" id="bestFriend2" placeholder="bestFriend" name="best2name"><!--name is going to be key-->
+                <label for="img2">Enter Image Link:</label>
+                <input type="text" id="img2" placeholder="Enter correct link of image" name="best2img"><!--name is going to be key-->
+            </section>
+            <section>
+                <label for="bestFriend3">bestFriend Name</label>
+                <input type="text" id="bestFriend3" placeholder="bestFriend" name="best3name"><!--name is going to be key-->
+                <label for="img3">Enter Image Link:</label>
+                <input type="text" id="img3" placeholder="Enter correct link of image" name="best3img"><!--name is going to be key-->
+            </section>
+        </section>
+        <div class="adjust">
+            <button type="submit" class="btn">Submit</button>
+        </div>
+        
+    </form>
+    </div>
+</body>
+</html>

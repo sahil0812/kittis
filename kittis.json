@@ -1,0 +1,222 @@
+{
+  "lala": {
+    "name": "LALA",
+    "title": "Cute",
+    "author": "Sahil Patil",
+    "breedInfo": "Lala is a Napoleon Munchkin cat with a long white fur coat. She may look similar to Coco but the two aren’t identical. Lala has bright blue eyes and a black blotch on her nose while Coco doesn’t and like a Munchkin, she also has short legs, and she tends to stick her tail straight up. Her tail is also a lot fluffier than Coco's. Lala also has 2 fur patches on both of her eyes which when she faces forward, she looks angry.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkROxONEy0u8UksCiqLbjXfL4VfAuv2_ckg&usqp=CAU",
+    "description": "LaLa is a female napoleon cat with completely white fur and blue eyes, born and adopted in early 2017. The main characteristics that distinguish her from samely coloured CoCo are a slimmer face, shorter munchkin legs, and eyes with a darker shade of blue. Unusually for white cats with blue eyes, both LaLa and CoCo are not deaf. LaLa is considered to be the beauty of the bunch and is often referred to as Claire's baby. She shares a bond with DD from the first day they met, she even would attack notoriously ill-tempered TT to defend him. When Claire introduced a running wheel to the apartment, it was LaLa who ended up using it the most.",
+    "bestFriend": [
+      {
+        "name": "LULU",
+        "img": "https://pbs.twimg.com/media/D0AG2lZU0AAcQmA.jpg"
+      },
+      {
+        "name": "DD",
+        "img": "https://i.pinimg.com/736x/ae/51/97/ae5197ae488c3223c89d2ac1dc5cf389.jpg"
+      },
+      {
+        "name": "CHUCHU",
+        "img": "https://i.pinimg.com/originals/3a/e5/04/3ae504524fa90e33d06d2abdd950cf61.jpg"
+      }
+    ]
+  },
+  "lulu": {
+    "name": "LULU",
+    "title": "Mischievous",
+    "author": "Sahil Patil",
+    "breedInfo": "Lulu is a brown tabby-coated Munchkin Scottish Fold cat, with a white muzzle, golden-brownish eyes, an M mark on his forehead, and his distinctive bushy raccoon-like tail. He has dark-colored paw pads and, being a Munchkin, he also has short legs, while his large round head and folded ears come from his Scottish Fold side. This particular genetic makeup leads him to suffer from a hereditary disease called achondroplasia, where the cartilage in his joints is almost nonexistent and would bring him great pain and limping if untreated. Despite this, he's still the most active and mischievous kitty in the household.",
+    "img": "https://pbs.twimg.com/media/D0AG2lZU0AAcQmA.jpg",
+    "description": "LuLu belongs to the younger generation of cats, brought in with ChuChu and LaLa in spring of 2017. LuLu is a tomcat. He suffered from a hereditary and genetic disease. He is a hybrid of a Scottish Fold cat and a British Shorthair. The genetic disease caused a pain on his right front foot. He was taken to the veterinary hospital whose Doctor LuLu calls the 'Porkchop Hospital Guy'. LuLu is the most active of all the cats. He has light brown fur around his body with a darker shade on his back. He is known for unsolicitedly offering his trademark 'LuLu's Shampoo Service' of extensive licking to all other cats and Claire. When food is being served, LuLu is the first one up for food roaming behind Claire everywhere. Sometimes, LuLu comes and sits down on Claire's laptop, typing up something unexpected. He occasionally is referred to as a squirrel because of his bushy tail and fur colour.",
+    "bestFriend": [
+      {
+        "name": "LALA",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkROxONEy0u8UksCiqLbjXfL4VfAuv2_ckg&usqp=CAU"
+      },
+      {
+        "name": "CHUCHU",
+        "img": "https://i.pinimg.com/originals/3a/e5/04/3ae504524fa90e33d06d2abdd950cf61.jpg"
+      },
+      {
+        "name": "TOTO & DODO",
+        "img": "https://64.media.tumblr.com/39303f6bd2afe63660d1b7153b827c0d/38a265b0a519a89f-42/s640x960/1f0f5db5088aef22034117561a50c97855e4844e.jpg"
+      }
+    ]
+  },
+  "coco": {
+    "name": "COCO",
+    "title": "Calm",
+    "author": "Sahil Patil",
+    "breedInfo": "Coco has white colored fur with big sky blue eyes. He is the third most fluffiest cat after Chuchu. He has fluffy fur and a fluffy tail. He also bears a strong resemblance to Lala, which makes many people think that the two are siblings, though they actually aren't. Unlike Lala, he has a slightly different eye shape and is NOT a munchkin cat (unlike Lala, which is a munchkin). Lala also has a small dark spot on her nose, while Coco does not.",
+    "img": "https://preview.redd.it/da2elp1j45061.jpg?auto=webp&s=b3c94ec73fa990893cfdd3b27373760a4bf357e6",
+    "description": "CoCo is a longhaired tomcat with completely white fur and blue eyes, being part of the second generation of Cream Heroes together with MoMo, born and adopted in 2016. Claire has named him Dr. CoCo because of his naturally curious and inquisitive nature. CoCo loves snacks more than food. He is a bit lazy and does not like to be bothered much, which is why he doesn't appear in front of the camera as often. Unlike LuLu however, he loves being brushed.",
+    "bestFriend": [
+      {
+        "name": "MOMO",
+        "img": "https://i.pinimg.com/originals/8a/a2/92/8aa2926f6694a1e9bcb9c4e74bad5221.jpg"
+      },
+      {
+        "name": "NANA",
+        "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg"
+      },
+      {
+        "name": "DODO",
+        "img": "https://preview.redd.it/hp02dz0p7be71.jpg?auto=webp&s=7aa9193ff8ebe2330106e85ee8f05681ea596f56"
+      }
+    ]
+  },
+  "chuchu": {
+    "name": "CHUCHU",
+    "title": "Innocent Baby",
+    "author": "Sahil Patil",
+    "breedInfo": "Chuchu is a fluffy longhaired cat with a quad-colored calico coat. She has bright yellow eyes with dark pupils. She also has a slightly smushed appearance to her face, much like Momo. She has a few dark brown, thin stripes on her forehead, small, folded ears and has a short, fluffy tail. She is also tall, slightly taller than both Lulu and Lala. She overall has more of a white fur color. She has an 'M' on her forehead, much like Momo and Lulu. Her fur colors are brown, orange, white, and least noticable; black.",
+    "img": "https://i.pinimg.com/originals/3a/e5/04/3ae504524fa90e33d06d2abdd950cf61.jpg",
+    "description": "ChuChu is a female Scottish Fold cat who has golden-white hair all over her body and partial golden hair over her forehead. She belongs to the third generation of Cream Heroes, born and adopted in early 2017. ChuChu was adopted by Claire after she received a call from a person who noticed ChuChu as a stray kitten. Claire would vlog herself nursing ChuChu back to health through various health complications stemming from her being born a stray. ChuChu is generally a very anxious cat, will quickly flee unknown situations and is therefore the cat with the least screen time.",
+    "bestFriend": [
+      {
+        "name": "LULU",
+        "img": "https://pbs.twimg.com/media/D0AG2lZU0AAcQmA.jpg"
+      },
+      {
+        "name": "LALA",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkROxONEy0u8UksCiqLbjXfL4VfAuv2_ckg&usqp=CAU"
+      },
+      {
+        "name": "COCO",
+        "img": "https://preview.redd.it/da2elp1j45061.jpg?auto=webp&s=b3c94ec73fa990893cfdd3b27373760a4bf357e6"
+      }
+    ]
+  },
+  "tt": {
+    "name": "TT",
+    "title": "Queen",
+    "author": "Sahil Patil",
+    "breedInfo": "TT is a cat with short, greyish-silver fur and sad olive-green eyes. She also has dark grey markings across her fur, which is seen on her head as well. She has a yellow spot on top of her nose. TT has a scar on her right eye due to having Feline Herpes when she was kitten, which is why her eye appears cloudy. As a kitten, TT was very skinny with a black pattern across the bridge of her nose, which indicated how very sick she was.",
+    "img": "https://preview.redd.it/vprbpo9ohgv41.jpg?auto=webp&s=dccd0495b88a3d94541af1172fb52d24773f22dd",
+    "description": "TT is a female European Shorthair mix and has tabby-coloured grey fur all over her body. She is DDs biological sibling and has been part of the first generation of Cream Heroes, born in January of 2015 and adopted soon after. For a time, she only ate snacks but not food or supplements. So, to find out which cat-food TT likes, she bought in many different brands of cat-food. TT loved every single brand, so, confused, Claire distributed the food among the seven cats so that they could have what they liked. TT is known for being the grumpiest of the cats. While she is friendly towards Claire, she famously punches the other cats if they come too close to her and even once scratched the vet. In October 2022, Claire had to travel to Japan to buy kidney medicine for TT, where she stayed for three days before returning to her native Korea.",
+    "bestFriend": [
+      {
+        "name": "MOMO",
+        "img": "https://i.pinimg.com/originals/8a/a2/92/8aa2926f6694a1e9bcb9c4e74bad5221.jpg"
+      },
+      {
+        "name": "TOTO",
+        "img": "https://preview.redd.it/heres-more-of-the-loaf-boi-toto-v0-i94b63pi2uq81.png?auto=webp&s=78afda1688d2109c4e9dc5fb4b6a0d164e696b3c"
+      },
+      {
+        "name": "NANA",
+        "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg"
+      }
+    ]
+  },
+  "dd": {
+    "name": "DD",
+    "title": "Bread Boy",
+    "author": "Sahil Patil",
+    "breedInfo": "DD is the fluffiest and tallest among all the cats. He has long, creamy brown and white fur. He has bright yellow eyes. Due to such a huge coat of fur, many people may think that he is fat, though in reality he is actually quite slim, as seen whenever Ms. Claire bathes him.",
+    "img": "https://i.pinimg.com/736x/ae/51/97/ae5197ae488c3223c89d2ac1dc5cf389.jpg",
+    "description": "DD is a male Norweigian Forest Cat mix with orange and white fur. Considered to be the de facto leader of the Cream Heroes, he will usually be the first to fearlessly approach and inspect any new items or visitors. He is known for chittering at the sight of something (or someone) exciting and will patiently endure nail clipping and even bathing sessions. The only Cream Hero who is able to open doors and drawers, his skills are sought after by the other cats, especially at night. He likes bread and is sometimes referred to as a loaf of bread due to his fur colour.",
+    "bestFriend": [
+      {
+        "name": "LALA",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkROxONEy0u8UksCiqLbjXfL4VfAuv2_ckg&usqp=CAU"
+      },
+      {
+        "name": "MOMO",
+        "img": "https://i.pinimg.com/originals/8a/a2/92/8aa2926f6694a1e9bcb9c4e74bad5221.jpg"
+      },
+      {
+        "name": "COCO",
+        "img": "https://preview.redd.it/da2elp1j45061.jpg?auto=webp&s=b3c94ec73fa990893cfdd3b27373760a4bf357e6"
+      }
+    ]
+  },
+  "momo": {
+    "name": "MOMO",
+    "title": "Old Fashioned",
+    "author": "Sahil Patil",
+    "breedInfo": "Momo has ginger/orange fur and yellowish eyes. Unlike the other cats, Momo's facial features are slightly different, making his face look a bit grumpy when seen closely, due to him being an Exotic Shorthair. According to Ms. Claire, he is very soft and when receiving an injection in a cat hospital, she had to hold him tightly as he could easily slip away. He is also very tall and long, as seen when he was stretched during an X-ray at the hospital. Despite this, he is rather stocky built, with a roundish face. MoMo's meow is a soft and loud 'mrowow'.Claire also possesses some Momo plush toys which are seen with a McDonald's 'M' mark on the forehead where Momo has a similar 'M' mark.",
+    "img": "https://i.pinimg.com/originals/8a/a2/92/8aa2926f6694a1e9bcb9c4e74bad5221.jpg",
+    "description": "MoMo is the oldest of all the cats in appearance, but is actually part of the second generation of Cream Heroes born in 2016. He is an all-orange tomcat with a short nose, slightly crooked eyes and wrinkles on his forehead. Claire symbolizes MoMo as 'Chairman MoMo' due to his appearance. When being voiced by Claire, MoMo has a rough elderly voice and preaches platitudes and life wisdoms like an old chairman. His catchphrase is 'Stamina!', which is uttered before or during great feats of physical strength. He usually hangs out with LuLu and to date has received the most shampoo services. There is only one thing the chairman truly fears: Human babies.",
+    "bestFriend": [
+      {
+        "name": "COCO",
+        "img": "https://preview.redd.it/da2elp1j45061.jpg?auto=webp&s=b3c94ec73fa990893cfdd3b27373760a4bf357e6"
+      },
+      {
+        "name": "NANA",
+        "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg"
+      },
+      {
+        "name": "TT",
+        "img": "https://preview.redd.it/vprbpo9ohgv41.jpg?auto=webp&s=dccd0495b88a3d94541af1172fb52d24773f22dd"
+      }
+    ]
+  },
+  "nana": {
+    "name": "NANA",
+    "title": "Mother Cat",
+    "author": "Sahil Patil",
+    "breedInfo": "Nana is a domestic female cat with orange and white fur/markings. She is similar to Dong-E.Her legs are extremely long for a feline of her size, and she has a long tail.",
+    "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg",
+    "description": "Nana is a female cat that came into Claire's Home. She and her two kittens, Toto and Dodo, were going to be euthanized by the shelter if they weren't adopted because their time at the shelter was about to end. Claire's friend informed her about that and she agreed to foster Nana and her kittens, and now she has adopted the three of them.",
+    "bestFriend": [
+      {
+        "name": "TT",
+        "img": "https://preview.redd.it/vprbpo9ohgv41.jpg?auto=webp&s=dccd0495b88a3d94541af1172fb52d24773f22dd"
+      },
+      {
+        "name": "MOMO",
+        "img": "https://i.pinimg.com/originals/8a/a2/92/8aa2926f6694a1e9bcb9c4e74bad5221.jpg"
+      },
+      {
+        "name": "TOTO & DODO",
+        "img": "https://64.media.tumblr.com/39303f6bd2afe63660d1b7153b827c0d/38a265b0a519a89f-42/s640x960/1f0f5db5088aef22034117561a50c97855e4844e.jpg"
+      }
+    ]
+  },
+  "toto": {
+    "name": "TOTO",
+    "title": "Curious",
+    "author": "Sahil Patil",
+    "breedInfo": "Toto is the son of Nana and the older brother of Dodo. He is an orange tabby domestic shorthair cat.",
+    "img": "https://preview.redd.it/heres-more-of-the-loaf-boi-toto-v0-i94b63pi2uq81.png?auto=webp&s=78afda1688d2109c4e9dc5fb4b6a0d164e696b3c",
+    "description": "Toto has a 'M' marking on his forehead and no orange spot on his nose. He also has bigger body compared to Dodo. He has a bigger head than Dodo. Toto's right eye has orange fur around it, while Dodo's is white.",
+    "bestFriend": [
+      {
+        "name": "DD",
+        "img": "https://i.pinimg.com/736x/ae/51/97/ae5197ae488c3223c89d2ac1dc5cf389.jpg"
+      },
+      {
+        "name": "NANA",
+        "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg"
+      },
+      {
+        "name": "DODO",
+        "img": "https://preview.redd.it/hp02dz0p7be71.jpg?auto=webp&s=7aa9193ff8ebe2330106e85ee8f05681ea596f56"
+      }
+    ]
+  },
+  "dodo": {
+    "name": "DODO",
+    "title": "Pirate",
+    "author": "Sahil Patil",
+    "breedInfo": "Dodo is a domestic shorthair cat. According to Claire, he's the younger one in the litter. He also bears a strong resemblance to Toto.",
+    "img": "https://preview.redd.it/hp02dz0p7be71.jpg?auto=webp&s=7aa9193ff8ebe2330106e85ee8f05681ea596f56",
+    "description": "Dodo has wider white spot on his forehead and he has smaller body compared to his brother, Toto. He has a smaller head than Toto. Dodo's right eye has white fur around it, while Toto's is orange.",
+    "bestFriend": [
+      {
+        "name": "LULU",
+        "img": "https://pbs.twimg.com/media/D0AG2lZU0AAcQmA.jpg"
+      },
+      {
+        "name": "NANA",
+        "img": "https://64.media.tumblr.com/0d6f0b6b58a21a90003bcc7afd344408/347f60d2b814d896-5b/s640x960/b8d5ba726e996ef1292e504990618a33712315b6.jpg"
+      },
+      {
+        "name": "TOTO",
+        "img": "https://preview.redd.it/heres-more-of-the-loaf-boi-toto-v0-i94b63pi2uq81.png?auto=webp&s=78afda1688d2109c4e9dc5fb4b6a0d164e696b3c"
+      }
+    ]
+  }
+}

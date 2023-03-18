@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/form.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <title>New Cat</title>
+    <style>
+        .colorback{
+            color: #537FE7;
+        }
+    </style>
+</head>
+<body style="background-color: #F7C8E0;">
+    <div class="containerForm colorback">
+        <h1 style="color:#95BDFF; background-color:#DFFFD8;">Edit The Form</h1>
+    <form action="/cats/<%= kitti.name.toLowerCase() %>?_method=PATCH" method="post">
+        <section>
+            <label for="title">Enter Title:</label>
+            <input type="text" id="title" value="<%= kitti.title %>" name="title"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="author">Enter Author:</label>
+            <input type="text" id="author" value="<%= kitti.author %>" name="author"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="breedInfo">Enter Breed Info:</label>
+            <input type="text" id="breedInfo" value="<%= kitti.breedInfo %>" name="breedInfo"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="imgmain">Enter Image Link:</label>
+            <input type="text" id="imgmain" value="<%= kitti.img %>" name="imgmain"><!--name is going to be key-->
+        </section>
+        <section>
+            <label for="description">Enter Description:</label>
+            <input type="text" id="description" value="<%= kitti.description %>" name="description"><!--name is going to be key-->
+        </section>
+        <section>
+            <h6 style="color:#95BDFF;">Enter The Details Of Friends</h6>
+            <section>
+                <label for="bestFriend1">bestFriend Name</label>
+                <input type="text" id="bestFriend1" value="<%= kitti.bestFriend[0].name %>" name="best1name"><!--name is going to be key-->
+                <label for="img1">Enter Image Link:</label>
+                <input type="text" id="img1" value="<%= kitti.bestFriend[0].img %>" name="best1img"><!--name is going to be key-->
+            </section>
+            <section>
+                <label for="bestFriend2">bestFriend Name</label>
+                <input type="text" id="bestFriend2" value="<%= kitti.bestFriend[1].name %>" name="best2name"><!--name is going to be key-->
+                <label for="img2">Enter Image Link:</label>
+                <input type="text" id="img2" value="<%= kitti.bestFriend[1].img %>" name="best2img"><!--name is going to be key-->
+            </section>
+            <section>
+                <label for="bestFriend3">bestFriend Name</label>
+                <input type="text" id="bestFriend3" value="<%= kitti.bestFriend[2].name %>" name="best3name"><!--name is going to be key-->
+                <label for="img3">Enter Image Link:</label>
+                <input type="text" id="img3" value="<%= kitti.bestFriend[2].img %>" name="best3img"><!--name is going to be key-->
+            </section>
+        </section>
+        <div class="adjust">
+            <button type="submit" class="btn">Submit</button>
+        </div>
+        
+    </form>
+    </div>
+</body>
+</html>
